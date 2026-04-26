@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1777199144 source:c:\users\hp\onedrive\desktop\c++ program\practical 8.4\main.cpp
+	"FileProcessor.h"
+
+1777199144 c:\users\hp\onedrive\desktop\c++ program\practical 8.4\include\fileprocessor.h
+	<string>
+
+1777199144 source:c:\users\hp\onedrive\desktop\c++ program\practical 8.4\src\fileprocessor.cpp
+	"FileProcessor.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
